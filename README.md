@@ -36,6 +36,4 @@
 `You can load the dataset from here`
 https://raw.githubusercontent.com/Ankit152/IMDB-sentiment-analysis/master/IMDB-Dataset.csv
 
-`My_Trainer`: 
-1) Sir Warren Loo
-2) Sir Alex Ko
+
