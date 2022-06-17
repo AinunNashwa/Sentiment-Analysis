@@ -18,6 +18,8 @@
 ### Results
 `Model`
 
+<img src="static/model.png" alt="model" style="width:200px;height:300px;">
+
 `Classification_Report`
 
 `Confusion_Matrix`
@@ -32,7 +34,7 @@
 
 ### Credits
 `You can load the dataset from here`
-![IMDB]("https://raw.githubusercontent.com/Ankit152/IMDB-sentiment-analysis/master/IMDB-Dataset.csv")
+https://raw.githubusercontent.com/Ankit152/IMDB-sentiment-analysis/master/IMDB-Dataset.csv
 
 `My_Trainer`: 
 1) Sir Warren Loo
