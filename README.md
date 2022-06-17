@@ -13,3 +13,5 @@
 ### Results
 ### Discussion
 ### Credits
+`You can load the dataset from here`
+![IMDB]("https://raw.githubusercontent.com/Ankit152/IMDB-sentiment-analysis/master/IMDB-Dataset.csv")
