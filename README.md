@@ -10,10 +10,10 @@
 1) The objectives of this project is to develop customer model reviews either it is positive or negative feedbacks
 2) Trained with over 60,000 IMDB dataset to categorize positive and negative reviews.
 3) Contains 50,000 reviews and 50,000 sentiments
-4) Trained with 10 epochs
-5) Data contains anomalies such as HTML tags, unnecessary characters and combination of uppercase and lowercase alphabets
+4) Data contains anomalies such as HTML tags, unnecessary characters and combination of uppercase and lowercase alphabets
 6) By using RegEx to remove the anamolies: remove HTML tags and unnecessary character and convert all alphabets into lowercase
-7) Methods used: `Word Embedding`,`LSTM`,`Bidirectional`
+7) Trained with 10 epochs
+8) Methods used: `Word Embedding`,`LSTM`,`Bidirectional`
 
 ### Results
 `Model`
