@@ -6,10 +6,10 @@
  
 # Sentiment Analysis on Movie Reviews using Deep Learning
 
-## Descriptions
-Trained with over 60,000 IMDB dataset to categorize positive and negative reviews.
-Contains 50,000 reviews and 50,000 sentiments
+### Descriptions
+1) Trained with over 60,000 IMDB dataset to categorize positive and negative reviews.
+2) Contains 50,000 reviews and 50,000 sentiments
 
-## Results
-## Discussion
-## Credits
+### Results
+### Discussion
+### Credits
