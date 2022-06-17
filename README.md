@@ -11,8 +11,9 @@
 2) Trained with over 60,000 IMDB dataset to categorize positive and negative reviews.
 3) Contains 50,000 reviews and 50,000 sentiments
 4) Trained with 10 epochs
-5) Data contains anomalies such as HTML tags, unnecessary character and converts all the alphabets into lowercase: Using RegEx
-6) Methods used: `Word Embedding`  `LSTM` `Bidirectional`
+5) Data contains anomalies such as HTML tags, unnecessary characters and combination of uppercase and lowercase alphabets
+6) By using RegEx to remove the anamolies: remove HTML tags and unnecessary character and convert all alphabets into lowercase
+7) Methods used: `Word Embedding`,`LSTM`,`Bidirectional`
 
 ### Results
 `Model`
@@ -27,10 +28,12 @@
 *Suggestions to Improve the Performance of Model*
 1) Apply `Early Stopping` to prevent overfitting
 2) Increase `Droput rate` to control overfitting
-3) Approach with different architecture such as: `BERT Model` `Transformer Model` `GPT3`
+3) Approach with different architecture such as: `BERT Model`,`Transformer Model`,`GPT3`
 
 ### Credits
 `You can load the dataset from here`
 ![IMDB]("https://raw.githubusercontent.com/Ankit152/IMDB-sentiment-analysis/master/IMDB-Dataset.csv")
 
-`My_Trainer`
+`My_Trainer`: 
+1) Sir Warren Loo
+2) Sir Alex Ko
