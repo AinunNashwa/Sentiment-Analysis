@@ -15,7 +15,7 @@ This is so funny! :joy:
 `print('hello)`
 
 ## To include url link
-![URL-cheat-sheet-md]('https://www.markdownguide.org/cheat-sheet/')
+https://www.markdownguide.org/cheat-sheet/
 
 ## To include images
 ![model_architecture](static/model.png)
