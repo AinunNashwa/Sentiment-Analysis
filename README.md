@@ -18,3 +18,4 @@ This is so funny! :joy:
 ![URL-cheat-sheet-md]('https://www.markdownguide.org/cheat-sheet/')
 
 ## To include images
+![model_architecture](static/model.png)
