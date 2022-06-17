@@ -18,7 +18,7 @@
 ### Results
 `Model`
 
-<img src="static/model.png" alt="model" style="width:300px;height:500px;"
+<img src="static/model.png" alt="model" style="width:300px;height:500px;">
 
 `Classification_Report`
 
