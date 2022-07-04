@@ -24,11 +24,17 @@
 
 <img src="static/model.png" alt="model" style="width:300px;height:500px;">
 
-`Classification_Report`
+`Classification_Report` & `Confusion_Matrix`
 
-`Confusion_Matrix`
+![Screenshot (1314)](https://user-images.githubusercontent.com/106902414/177074980-ebd5eb8d-9a69-4c58-a728-1d3690e00dad.png)
 
-`Training Data`
+
+`Training Data` Accuracy versus Loss
+
+![Validation Loss](https://user-images.githubusercontent.com/106902414/177075043-d29718f7-3598-486f-9291-27d8aad9cce0.png)
+
+![Training Loss](https://user-images.githubusercontent.com/106902414/177075062-aec5cc37-737d-4a29-afe1-d0855fbc0453.png)
+
 
 ### Discussion
 *Suggestions to Improve the Performance of Model*
