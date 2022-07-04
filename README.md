@@ -24,7 +24,7 @@
 
 <img src="static/model.png" alt="model" style="width:300px;height:500px;">
 
-`Classification_Report` & `Confusion_Matrix`
+`Classification_Report`, `Accuracy Score` & `Confusion_Matrix`
 
 ![Screenshot (1314)](https://user-images.githubusercontent.com/106902414/177074980-ebd5eb8d-9a69-4c58-a728-1d3690e00dad.png)
 
